@@ -13,5 +13,13 @@
         <CarCard/>
         <CarCard/>
         <CarCard/>
-</div>
+    </div>
 </template>
+<style>
+    .card-container{
+        display: flex;
+        justify-content: center;
+        margin: 30px;
+        flex-wrap: wrap;
+    }
+</style>

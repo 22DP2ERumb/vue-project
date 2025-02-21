@@ -1,10 +1,9 @@
 <script setup>
-import Cardcontainer from '../components/CardContainer.vue'
+    import Cardcontainer from '../components/CardContainer.vue'
 </script>
 
 <template>
-  <main>
-    <h1>This is home page</h1>
-    <Cardcontainer/>
-  </main>
+    <main>
+      <Cardcontainer/>
+    </main>
 </template>
