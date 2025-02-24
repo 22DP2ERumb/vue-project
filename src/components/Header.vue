@@ -2,18 +2,18 @@ style
 <template>
   <header>
     <nav>
-        <a href="/" class="logo-container">
+        <RouterLink to="/" class="logo-container">
             <img src="/images/car_logo.png" alt="">
             <h1 class="site-name">AutoIzsole.lv</h1>
-        </a>       
+        </RouterLink>       
         <ul>
-            <li><a href="">Brand's</a></li>
-            <li><a href="">About Us</a></li>
-            <li><a href="">Contact Us</a></li>
+            <li><RouterLink to="/">Brand's</RouterLink></li>
+            <li><RouterLink to="/">About Us</RouterLink></li>
+            <li><RouterLink to="/">Contact Us</RouterLink></li>
         </ul>   
         <ul class="auth-links">
-            <li><a href="login.html">Login</a></li>
-            <li><a href="">Register</a></li>
+            <li><RouterLink to="/login">Login</RouterLink></li>
+            <li><RouterLink to="/">Register</RouterLink></li>
         </ul>
 
 

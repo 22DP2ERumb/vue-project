@@ -1,16 +1,20 @@
 <script setup>
-    import ImgContainer from '../components/ImgContainer.vue'
+    import LeftCarContainer from './LeftCarContainer.vue'
+    import RightCarContainer from './RightCarContainer.vue'
 </script>
+
 <template>
-    <div class="CardPageContainer">
-        <ImgContainer/>
+    <div class="CardPage-container">
+        <LeftCarContainer/>
+        <RightCarContainer/>
     </div>
 </template>
+
 <style>
-.CardPage-container{
-    margin: 20px;
-    display: flex;
-    flex-direction: row;
-    position: relative;
-}
+    .CardPage-container{
+        margin: 20px;
+        display: flex;
+        flex-direction: row;
+        position: relative;
+    }
 </style>

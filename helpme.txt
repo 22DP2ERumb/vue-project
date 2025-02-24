@@ -1,2 +1,7 @@
 https://www.carlogos.org/
 primevue - icons
+
+
+tasks{
+    1. carpage mobileview japartaisa(iespējams viss carpage)
+}
