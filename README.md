@@ -1,2 +1,2 @@
--Projekts kandrīz pārnests uz vuejs, pietrūkst sekojošās iespējas - login; register; dark-mode; sidebar(telefonam).
--Nākotnes plāns - salinkot ar datubāzi, izveidot userprofile page
+-Projekts kandrīz pārnests uz vuejs, pietrūkst sekojošās iespējas - register; dark-mode; sidebar(telefonam).
+-Nākotnes plāns - salinkot ar datubāzi, izveidot userprofile page, salabot lai car-page strādātu ar mobile view, pielabot login page(dizainu)
